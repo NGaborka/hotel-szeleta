@@ -1,0 +1,33 @@
+body
+{
+    background-color: gray;
+}
+h1
+{
+    text-align: center;
+    border: 3px solid black;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(0, 255, 26), rgba(255, 0, 0, 0));
+    background-color: rgb(61, 221, 242);
+}
+.img-thumbnail
+{
+    height: 200px;
+    width: 300px;
+}
+#cimek
+{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(51, 118, 168), rgba(255, 0, 0, 0));
+    text-align: center;
+    border: 3px solid black;
+}
+#hatter
+{
+    text-align: center;
+    background-color:rgb(51, 118, 168);
+}
+#vissza
+{
+    border:2px solid red;
+    color: black;
+    background-color: red;
+}

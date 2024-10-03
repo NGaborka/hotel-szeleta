@@ -1,0 +1,37 @@
+body
+{
+    background-color: rgb(226, 174, 174);
+}
+h3
+{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), red, rgba(255, 0, 0, 0));
+    background-color: rgb(20, 244, 20);
+    text-align: center;
+    border: 3px solid red;
+}
+#kartya
+{
+    background-color: rgb(105, 100, 100);
+    text-align: center;
+    border: 3px solid green;
+}
+h1 
+{
+    background-color: black;
+    color:aliceblue;
+    border: 3px solid red;
+}
+#szoveg
+{
+    border: 2px solid black;
+}
+#hatter
+{
+    background-color: rgb(177, 120, 120);
+}
+#vissza
+{
+    border:2px solid red;
+    color: black;
+    background-color: red;
+}

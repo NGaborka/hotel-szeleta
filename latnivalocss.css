@@ -1,0 +1,30 @@
+body
+{
+    background-color: gray;
+}
+h1
+{
+    border: 3px solid red;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), blue, rgba(255, 0, 0, 0));
+    background-color:gray;
+}
+#cimek
+{
+    background-color: orange;
+}
+#tartalom
+{
+    background-color: #66cc00;
+}
+.img-thumbnail
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+}
+#vissza
+{
+    border: 2px solid red;
+    background-color: red;
+    color: black;
+}

@@ -1,0 +1,29 @@
+body
+{
+    background-color: gray;
+}
+#cimek
+{
+    background-color: #FFFFCC;
+    border: 3px solid black;
+}
+#kiscim
+{
+    background-color: #CCFFFF;
+    border: 3px solid rgb(9, 41, 139);
+}
+#tartalom
+{
+    background-color: #CCCCCC;
+}
+#szoveg
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+#vissza
+{
+    border:2px solid red;
+    color: black;
+    background-color: red;
+}
